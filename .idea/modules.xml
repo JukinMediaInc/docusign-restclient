@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/docusign-restclient.iml" filepath="$PROJECT_DIR$/.idea/docusign-restclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docusign-restclient-core/docusign-restclient-core.iml" filepath="$PROJECT_DIR$/docusign-restclient-core/docusign-restclient-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docusign-restclient-dto/docusign-restclient-dto.iml" filepath="$PROJECT_DIR$/docusign-restclient-dto/docusign-restclient-dto.iml" />
+    </modules>
+  </component>
+</project>
